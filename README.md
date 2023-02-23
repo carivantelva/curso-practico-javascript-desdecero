@@ -1,2 +1,2 @@
-# curso-practico-javascript-desdecero
+# curso-practico-javaScript-desdecero
 creando repositorio para clase 15
